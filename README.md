@@ -15,3 +15,4 @@
 - اسم الطالب جمانة
 >>>>>>> origin/feature/accommodation
 Hello from Rand!
+Hello from Rand!
